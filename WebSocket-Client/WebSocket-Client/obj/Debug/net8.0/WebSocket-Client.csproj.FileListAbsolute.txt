@@ -1,0 +1,14 @@
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net8.0\WebSocket-Client.exe
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net8.0\WebSocket-Client.deps.json
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net8.0\WebSocket-Client.runtimeconfig.json
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net8.0\WebSocket-Client.dll
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\bin\Debug\net8.0\WebSocket-Client.pdb
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\WebSocket-Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\WebSocket-Client.AssemblyInfoInputs.cache
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\WebSocket-Client.AssemblyInfo.cs
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\WebSocket-Client.csproj.CoreCompileInputs.cache
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\WebSocket-Client.dll
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\refint\WebSocket-Client.dll
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\WebSocket-Client.pdb
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\WebSocket-Client.genruntimeconfig.cache
+D:\Trainings\WebSocket\WebSocket-Client\WebSocket-Client\obj\Debug\net8.0\ref\WebSocket-Client.dll
